@@ -27,4 +27,4 @@ The endpoints:<br/>
 <i>. /v1/account/get_registry/</i>: Expose the user personal registry containing generic and non sensible personal data<br/>
 <i>. /v1/account/update_registry/</i>: Update the user personal registry<br/>
 <br/>
-<b>Project still on development</b>.
+<b>WIP</b>.
