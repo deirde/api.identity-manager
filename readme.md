@@ -1,4 +1,4 @@
-# API.ACCOUNT.WEBFORYOU.TV #
+# API-IDENTITY-MANAGER #
 
 Python Flask based API with a password and timed token-based authentication.<br/>
 <br/>
