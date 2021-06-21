@@ -1,6 +1,6 @@
 # API-IDENTITY-MANAGER
 
-Simple Python Flask based API with password and token based authentication.<br/>
+A simple Python Flask API for token-based authentication.<br/>
 <br/>
 Purpose of the API:<br/>
 . Track API usage by user</br>
